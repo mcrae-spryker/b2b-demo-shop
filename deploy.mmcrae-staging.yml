@@ -41,7 +41,7 @@ assets:
 regions:
     EU:
         services:
-            database: mmcrae_staging
+            database: 
                 database: mmcrae_staging
                 username: spryker
                 password: secret
